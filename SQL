@@ -1,6 +1,3 @@
 SQL-Structure query language
 CRUD operation
-Create ---- Create a database 
-Read ----- Read(select)
-Update ---- Update the data base
-Delete ---- Delete the database           Bhushan Pol
+data entered into the cell hould be ingle value data or automic data. -> Aparna Mashal
